@@ -80,7 +80,7 @@ const Projects = () => (
       />
       <ProjectCard
         logo="/images/clock.jpg" // Ensure the image is in the correct location
-        title="BAsh digital clock"
+        title="Bash digital clock"
         description="digital clockusing bash."
         github="https://github.com/sahil-009/Digital-clock.git"
         
