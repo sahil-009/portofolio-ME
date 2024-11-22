@@ -68,7 +68,7 @@ const Header = () => {
 
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/your-resume-link" // Replace with your actual Google Drive resume link
+            href="https://drive.google.com/file/d/1Zitwsirump1dEzR1p75k2MoDz37v9cEE/view?usp=drive_link" // Replace with your actual Google Drive resume link
             target="_blank"
             rel="noopener noreferrer"
             className="text-white bg-blue-500 hover:bg-blue-700 focus:ring-4 focus:outline-none font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
